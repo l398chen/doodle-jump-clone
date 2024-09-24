@@ -1,0 +1,30 @@
+<p>
+  A little doodle jump clone made as part of Indie Game Academy's Level 1 Cohort 16 bootcamp! <br>
+  Total time spent: approx. 27h
+</p>
+
+<h4>
+  Assets Used:
+</h4>
+
+<p>
+  Base code for the project provided by Dylan of IGA <a href="https://celtican.itch.io/">@celtican</a><br>
+  
+  Bird Protagonist by <a href="https://penzilla.itch.io/rpg-bird-character">Penzilla</a><br>
+  
+  Flying bird sprite by <a href="https://violiina.itch.io/free-bird-sprite-animation-10-frames">Violiina</a><br>
+  
+  Main game scene background music "Piano Moment" by <a href="https://www.bensound.com/royalty-free-music">Bensound</a><br>
+  
+  Wind Chimes Ambience for Main Menu from <a href="https://pixabay.com/sound-effects/">Pixabay</a><br>
+  
+  Cloud bounce sound effects from <a href="https://pixabay.com/sound-effects/">Pixabay</a><br>
+  
+  Powerup Sound Effect by <a href="https://pixabay.com/users/ribhavagrawal-39286533/?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=230548">Ribhav Agrawal</a> on <a href="https://pixabay.com/sound-effects//?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=230548">Pixabay</a><br>
+
+  Bird Enemy Sound Effect by <a href="https://pixabay.com/users/nikin-253338/?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=215811">Nikin</a> on <a href="https://pixabay.com/sound-effects//?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=215811">Pixabay</a><br>
+  
+   Wings powerup sprite from <a href="https://www.freepik.com/free-psd/cartoon-angel-wings-isoltated_178832589.htm#query=transparent%20wings&position=7&from_view=keyword&track=ais_hybrid&uuid=221f71a4-b4c8-4a05-bdce-b7be4fd31734">Freepik</a><br>
+  
+   Sunset clouds background by <a href="https://www.freepik.com/free-vector/evening-cloudy-sky-purple-background-with-group-cumulus-cirrus-clouds-flat-cartoon-illustration_16607919.htm">macrovector</a> on <a href="https://www.freepik.com/free-vector/evening-cloudy-sky-purple-background-with-group-cumulus-cirrus-clouds-flat-cartoon-illustration_16607919.htm">Freepik</a>
+</p>

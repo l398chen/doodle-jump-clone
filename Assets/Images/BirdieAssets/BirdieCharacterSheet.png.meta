@@ -1,0 +1,1548 @@
+fileFormatVersion: 2
+guid: 5dc1a73735298a34bae53a68b3a604b5
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BirdieCharacterSheet_0
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 3019
+        width: 297
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b1b25fbb0fef444e86f8f0df2687abe
+      internalID: -694644196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdieCharacterSheet_1
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 3019
+        width: 297
+        height: 408
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa6e70bb69335334989293617fe29fab
+      internalID: -661340610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdieCharacterSheet_2
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 3019
+        width: 297
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 447e8246ec4c23d409640b1047e649db
+      internalID: -970751474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdieCharacterSheet_3
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 3019
+        width: 297
+        height: 408
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f80535b0b698a97409b24eba97b8386b
+      internalID: 547600193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdieCharacterSheet_4
+      rect:
+        serializedVersion: 2
+        x: 2099
+        y: 3019
+        width: 306
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccc8be9414e8dcb489eb269b841c0dbf
+      internalID: -1866368219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdieCharacterSheet_5
+      rect:
+        serializedVersion: 2
+        x: 2595
+        y: 3015
+        width: 332
+        height: 396
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a26ef17418cb1f42a5231f5eab3c8e8
+      internalID: -1572752193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdieCharacterSheet_6
+      rect:
+        serializedVersion: 2
+        x: 2907
+        y: 3214
+        width: 45
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4258d5299ce3bb24a959ed3816fdbbc0
+      internalID: -963861530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdieCharacterSheet_7
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 2519
+        width: 297
+        height: 408
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e881ad6d539d58408c47c41b70f0295
+      internalID: -1184132720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdieCharacterSheet_8
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 2521
+        width: 297
+        height: 414
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12ecc6afcc4d24143939a3d7cafca064
+      internalID: -190382390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdieCharacterSheet_9
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 2521
+        width: 297
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9abc3c33ca3bb6a478ddb22f82477a90
+      internalID: -1166868270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdieCharacterSheet_10
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 2519
+        width: 297
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d104bca8d99f774989be8fa2b13fdc7
+      internalID: 1865901609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdieCharacterSheet_11
+      rect:
+        serializedVersion: 2
+        x: 2099
+        y: 2519
+        width: 297
+        height: 408
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3a1deca701249c419a7c602e5f1c908
+      internalID: 269633775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdieCharacterSheet_12
+      rect:
+        serializedVersion: 2
+        x: 2599
+        y: 2517
+        width: 297
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bc010254c9c52845a5778ac6f550c3c
+      internalID: -1831571007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdieCharacterSheet_13
+      rect:
+        serializedVersion: 2
+        x: 3099
+        y: 2540
+        width: 297
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a82a113ffcfbb3d44aaa22d503f56a82
+      internalID: 867280473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdieCharacterSheet_14
+      rect:
+        serializedVersion: 2
+        x: 3599
+        y: 2517
+        width: 297
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4b2d5c52ab2a45468d1f44ab6002f37
+      internalID: -360564213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdieCharacterSheet_15
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 2019
+        width: 297
+        height: 398
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77bf65256f7329f47aced8cd604bb7c5
+      internalID: -2098169760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdieCharacterSheet_16
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 2019
+        width: 297
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e2e0a6e62382944993cbdd51e1d1c4f
+      internalID: -1359890666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdieCharacterSheet_17
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 2021
+        width: 297
+        height: 441
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5ebb46eaff52144ab8d9a183d8c5eaa
+      internalID: 561578892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdieCharacterSheet_18
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 2036
+        width: 297
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53e5c83220e19244d8386e982eca937c
+      internalID: -2098145232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdieCharacterSheet_19
+      rect:
+        serializedVersion: 2
+        x: 2099
+        y: 2036
+        width: 297
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bed0308e669d4d741a6ac741e3ff5db3
+      internalID: -1004668294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdieCharacterSheet_20
+      rect:
+        serializedVersion: 2
+        x: 2599
+        y: 2019
+        width: 297
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b17ff3dd0b50304ea49ef81d0224528
+      internalID: -593838153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdieCharacterSheet_21
+      rect:
+        serializedVersion: 2
+        x: 3099
+        y: 2019
+        width: 297
+        height: 398
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 383a16a068bcd774ab0ad3a0fc7a6af1
+      internalID: 1935625828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdieCharacterSheet_22
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1536
+        width: 297
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9944c04a3fd49f541a69e845796ac75a
+      internalID: 345247748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdieCharacterSheet_23
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 1538
+        width: 297
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c20cae4818be65489ff496e6050fa43
+      internalID: -1670094027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdieCharacterSheet_24
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 1534
+        width: 297
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 459007e4794d2004f8e73dd0e421f40e
+      internalID: -1728258282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdieCharacterSheet_25
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 1538
+        width: 297
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8db9f6a544ad0eb4c83b59e36b82132f
+      internalID: -1306144330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdieCharacterSheet_26
+      rect:
+        serializedVersion: 2
+        x: 2099
+        y: 1519
+        width: 297
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db1e6f7d16c7e0c46a136c5337275760
+      internalID: -923016747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdieCharacterSheet_27
+      rect:
+        serializedVersion: 2
+        x: 2599
+        y: 1519
+        width: 297
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62c32e53c1e852445b354c256e8ad446
+      internalID: -1720496235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdieCharacterSheet_28
+      rect:
+        serializedVersion: 2
+        x: 3099
+        y: 1519
+        width: 297
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71a5889c1f8a405488347f08f8ba42b2
+      internalID: -2087491363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdieCharacterSheet_29
+      rect:
+        serializedVersion: 2
+        x: 3599
+        y: 1519
+        width: 297
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef6ac15ffc29c624084a7b2f053e2f0b
+      internalID: -452692031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdieCharacterSheet_30
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1019
+        width: 297
+        height: 398
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1ddb991809c89e4c8267bb3a1bb61f5
+      internalID: 2036602029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdieCharacterSheet_31
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 1019
+        width: 297
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 574157e0ce75c7c4d82c8e8f4aae0c98
+      internalID: 852140992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdieCharacterSheet_32
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 1056
+        width: 297
+        height: 396
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab30a1df7004b794bb969b63e1d68991
+      internalID: 572502876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdieCharacterSheet_33
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1099
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa53132508535c640bdd7a302be0ceff
+      internalID: -242450128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdieCharacterSheet_34
+      rect:
+        serializedVersion: 2
+        x: 1558
+        y: 1101
+        width: 35
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15ae55d5f6c0c644694e2c9c0186b689
+      internalID: 539098940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdieCharacterSheet_35
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 1013
+        width: 302
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4c125046ee0d0e46af8c764a95513eb
+      internalID: 1267561060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdieCharacterSheet_36
+      rect:
+        serializedVersion: 2
+        x: 2034
+        y: 1099
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cee5d396ce87a342b22e95ca2eea56e
+      internalID: -1214956162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdieCharacterSheet_37
+      rect:
+        serializedVersion: 2
+        x: 2099
+        y: 1013
+        width: 302
+        height: 381
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d2ef3e5ddb089b41b120ae96d115904
+      internalID: 596401734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdieCharacterSheet_38
+      rect:
+        serializedVersion: 2
+        x: 2599
+        y: 1042
+        width: 297
+        height: 408
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a1222302a240414cb019bda8622bae6
+      internalID: -1002201978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdieCharacterSheet_39
+      rect:
+        serializedVersion: 2
+        x: 3081
+        y: 1030
+        width: 293
+        height: 397
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5af3bc6cf612bd4d9b727b7b882945a
+      internalID: 150178413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdieCharacterSheet_40
+      rect:
+        serializedVersion: 2
+        x: 3554
+        y: 1013
+        width: 396
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e242f50eb4f9c7745a32305568cba663
+      internalID: -241678038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdieCharacterSheet_41
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 1073
+        width: 45
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81fba4ee860a34f44964aa1b5a0dfeeb
+      internalID: 258221585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdieCharacterSheet_42
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 1054
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59ce0bf2d8c0f09478ea169e056f1f23
+      internalID: 459694527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdieCharacterSheet_43
+      rect:
+        serializedVersion: 2
+        x: 2026
+        y: 1063
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb71d25b90613844aaf2cfb3c3bbbe56
+      internalID: -370031735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdieCharacterSheet_44
+      rect:
+        serializedVersion: 2
+        x: 2058
+        y: 1040
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63c1497be326fa94f8516a850c6ad244
+      internalID: -1739792509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdieCharacterSheet_45
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 519
+        width: 100
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c3f8b412fef1da47addc9281d60d8fd
+      internalID: -1546060831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdieCharacterSheet_46
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 519
+        width: 100
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ba0f5552b5255143b0ee60c18202bb8
+      internalID: 440906478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdieCharacterSheet_47
+      rect:
+        serializedVersion: 2
+        x: 2052
+        y: 632
+        width: 70
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9c75e58d333add4eaff1cc0f2bee6c5
+      internalID: 528825784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdieCharacterSheet_48
+      rect:
+        serializedVersion: 2
+        x: 2530
+        y: 667
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f8b0d395fd9d564c97a6aa20361f36c
+      internalID: -1030355423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdieCharacterSheet_49
+      rect:
+        serializedVersion: 2
+        x: 2589
+        y: 667
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e2c4d5329e60624da1503f051897545
+      internalID: 1556510482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdieCharacterSheet_50
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 519
+        width: 154
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54b3a7ef5af8c81458d3ab76cb9b045b
+      internalID: 168609697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdieCharacterSheet_51
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 579
+        width: 103
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd159ebce408d504887f3078db78501e
+      internalID: 690308096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdieCharacterSheet_52
+      rect:
+        serializedVersion: 2
+        x: 1661
+        y: 515
+        width: 102
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4358345359cb04d4aa2c8c7db9eb01b7
+      internalID: -860890512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdieCharacterSheet_53
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 608
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f5d612274d5ce74392b10ae0967352e
+      internalID: -1621671917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdieCharacterSheet_54
+      rect:
+        serializedVersion: 2
+        x: 2202
+        y: 606
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b9dc766084db7443836d3864b36d28a
+      internalID: -247086581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdieCharacterSheet_55
+      rect:
+        serializedVersion: 2
+        x: 1591
+        y: 526
+        width: 54
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfa8dfafcef04c74893787ea57e25a01
+      internalID: 1565648813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdieCharacterSheet_56
+      rect:
+        serializedVersion: 2
+        x: 2079
+        y: 526
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88d230091da9af04584a26bbec10cb67
+      internalID: 1566583214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdieCharacterSheet_57
+      rect:
+        serializedVersion: 2
+        x: 2212
+        y: 517
+        width: 60
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee58fb2f12594b64e8a3362965813323
+      internalID: -1627255849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdieCharacterSheet_58
+      rect:
+        serializedVersion: 2
+        x: 2763
+        y: 550
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f859a5e47134844ea1de0dae2a98175
+      internalID: -1435651268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdieCharacterSheet_59
+      rect:
+        serializedVersion: 2
+        x: 2552
+        y: 522
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 528c92b0cb0009d4fa9966959c1c2765
+      internalID: 2137617879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdieCharacterSheet_60
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 19
+        width: 100
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 637c45c981198c348acd511ee1f8c682
+      internalID: -1674333168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdieCharacterSheet_61
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 19
+        width: 100
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a54cf4af3a346774889678ee6cb77d9e
+      internalID: -1968004937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdieCharacterSheet_62
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 19
+        width: 100
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5262dd0aa878f554daad6a619ea90d12
+      internalID: 107745331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdieCharacterSheet_63
+      rect:
+        serializedVersion: 2
+        x: 1616
+        y: 19
+        width: 100
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 440169612a78e8f42b0b828f5c6588c9
+      internalID: 1613832889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      BirdieCharacterSheet_0: -694644196
+      BirdieCharacterSheet_1: -661340610
+      BirdieCharacterSheet_10: 1865901609
+      BirdieCharacterSheet_11: 269633775
+      BirdieCharacterSheet_12: -1831571007
+      BirdieCharacterSheet_13: 867280473
+      BirdieCharacterSheet_14: -360564213
+      BirdieCharacterSheet_15: -2098169760
+      BirdieCharacterSheet_16: -1359890666
+      BirdieCharacterSheet_17: 561578892
+      BirdieCharacterSheet_18: -2098145232
+      BirdieCharacterSheet_19: -1004668294
+      BirdieCharacterSheet_2: -970751474
+      BirdieCharacterSheet_20: -593838153
+      BirdieCharacterSheet_21: 1935625828
+      BirdieCharacterSheet_22: 345247748
+      BirdieCharacterSheet_23: -1670094027
+      BirdieCharacterSheet_24: -1728258282
+      BirdieCharacterSheet_25: -1306144330
+      BirdieCharacterSheet_26: -923016747
+      BirdieCharacterSheet_27: -1720496235
+      BirdieCharacterSheet_28: -2087491363
+      BirdieCharacterSheet_29: -452692031
+      BirdieCharacterSheet_3: 547600193
+      BirdieCharacterSheet_30: 2036602029
+      BirdieCharacterSheet_31: 852140992
+      BirdieCharacterSheet_32: 572502876
+      BirdieCharacterSheet_33: -242450128
+      BirdieCharacterSheet_34: 539098940
+      BirdieCharacterSheet_35: 1267561060
+      BirdieCharacterSheet_36: -1214956162
+      BirdieCharacterSheet_37: 596401734
+      BirdieCharacterSheet_38: -1002201978
+      BirdieCharacterSheet_39: 150178413
+      BirdieCharacterSheet_4: -1866368219
+      BirdieCharacterSheet_40: -241678038
+      BirdieCharacterSheet_41: 258221585
+      BirdieCharacterSheet_42: 459694527
+      BirdieCharacterSheet_43: -370031735
+      BirdieCharacterSheet_44: -1739792509
+      BirdieCharacterSheet_45: -1546060831
+      BirdieCharacterSheet_46: 440906478
+      BirdieCharacterSheet_47: 528825784
+      BirdieCharacterSheet_48: -1030355423
+      BirdieCharacterSheet_49: 1556510482
+      BirdieCharacterSheet_5: -1572752193
+      BirdieCharacterSheet_50: 168609697
+      BirdieCharacterSheet_51: 690308096
+      BirdieCharacterSheet_52: -860890512
+      BirdieCharacterSheet_53: -1621671917
+      BirdieCharacterSheet_54: -247086581
+      BirdieCharacterSheet_55: 1565648813
+      BirdieCharacterSheet_56: 1566583214
+      BirdieCharacterSheet_57: -1627255849
+      BirdieCharacterSheet_58: -1435651268
+      BirdieCharacterSheet_59: 2137617879
+      BirdieCharacterSheet_6: -963861530
+      BirdieCharacterSheet_60: -1674333168
+      BirdieCharacterSheet_61: -1968004937
+      BirdieCharacterSheet_62: 107745331
+      BirdieCharacterSheet_63: 1613832889
+      BirdieCharacterSheet_7: -1184132720
+      BirdieCharacterSheet_8: -190382390
+      BirdieCharacterSheet_9: -1166868270
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
