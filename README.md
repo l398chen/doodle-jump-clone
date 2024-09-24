@@ -2,6 +2,8 @@
 
 IGA Level 1 Coursework
 
+[itch.io page](https://quetzalotl.itch.io/wingbound)
+
 Description:
 A little doodle jump clone made as part of Indie Game Academy's Level 1 Cohort 16 bootcamp!  
 Total time spent: approx. 27h
